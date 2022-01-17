@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Food Shopping",
+      "day": "Feb 6th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Take nap",
+      "day": "6th Feb 2022 at 2.00pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Dinner",
+      "day": "Night 9pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
